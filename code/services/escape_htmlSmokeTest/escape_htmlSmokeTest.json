@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,escape_html",
+    "logging_enabled": "false",
+    "name": "escape_htmlSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "escape_htmlSmokeTest.js"
+}
